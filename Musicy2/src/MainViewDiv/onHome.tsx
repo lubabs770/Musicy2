@@ -8,3 +8,6 @@ function onHome() {
     <div>on home</div>
   )
 }
+
+
+export default OnHome

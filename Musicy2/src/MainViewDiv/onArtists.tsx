@@ -2,10 +2,12 @@
 import { useState } from 'react'
 
 
-function onHome() {
+function OnArtists() {
 
 
   return (
     <div>on artists</div>
   )
-}
+};
+
+export default OnArtists

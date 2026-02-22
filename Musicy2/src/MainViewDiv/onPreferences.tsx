@@ -2,10 +2,12 @@
 import { useState } from 'react'
 
 
-function onHome() {
+function OnPreferences() {
 
 
   return (
     <div>on Preferences</div>
   )
-}
+};
+
+export default OnPreferences

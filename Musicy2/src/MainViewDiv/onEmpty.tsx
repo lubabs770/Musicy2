@@ -1,10 +1,13 @@
 import { useState } from "react";   
 
 
-function onEmpty() {
+function OnEmpty() {
+    
+    return (
     <div>
    empty state
     </div>
+    )
 };
 
 export default onEmpty

@@ -2,10 +2,12 @@
 import { useState } from 'react'
 
 
-function onHome() {
+function Scrobbly() {
 
 
   return (
     <div>on scrobbly</div>
   )
-}
+};
+
+export default Scrobbly

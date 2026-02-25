@@ -1,5 +1,5 @@
 import './MainViewDiv.css'
-import OnEmpty from './onEmpty'
+import Empty from './onEmpty'
 import Home from './onHome'
 import Artists from './onArtists'
 import Scrobbly from './onScrobbly'

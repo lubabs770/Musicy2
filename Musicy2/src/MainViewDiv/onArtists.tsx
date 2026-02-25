@@ -2,7 +2,7 @@
 import { useState } from 'react'
 
 
-function OnArtists() {
+function Artists() {
 
 
   return (
@@ -10,4 +10,4 @@ function OnArtists() {
   )
 };
 
-export default OnArtists
+export default Artists

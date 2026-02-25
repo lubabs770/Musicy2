@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 
-function onHome() {
+function Home() {
 
 
   return (
@@ -10,4 +10,4 @@ function onHome() {
 }
 
 
-export default OnHome
+export default Home

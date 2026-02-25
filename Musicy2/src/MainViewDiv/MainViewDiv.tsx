@@ -12,7 +12,7 @@ if (MainView === 'Home'){return(<div><Home /></div>)}
 if (MainView === 'Artists'){return(<div><Artists /></div>)}
 if (MainView === 'Scrobbly'){return(<div><Scrobbly /></div>)}
 if (MainView === 'Preferences'){return(<div><Preferences /></div>)}
- else return (<div><OnEmpty /></div>)
+ return (<div><OnEmpty /></div>)
 
 };
 

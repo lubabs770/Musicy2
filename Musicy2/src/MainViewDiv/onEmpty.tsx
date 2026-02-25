@@ -1,7 +1,7 @@
 import { useState } from "react";   
 
 
-function OnEmpty() {
+function Empty() {
     
     return (
     <div>
@@ -10,4 +10,4 @@ function OnEmpty() {
     )
 };
 
-export default onEmpty
+export default Empty
